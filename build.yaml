@@ -13,7 +13,7 @@
 #
 ---
 include:
-  - board: seeeduino_xiao
+  - board: seeeduino_xiao_ble
     shield: pinsel_left
-  - board: seeeduino_xiao
+  - board: seeeduino_xiao_ble
     shield: pinsel_right
